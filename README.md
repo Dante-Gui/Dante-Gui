@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, Meu chamo Guilherme Sales 
 - 🌱 Estudando banco de dados (SQL) e Linguagem C
 - 😄 Pronouns: ele/dele
 - 🤖 Faço parte do time de valorant do Ceub: (Black Cyber) jogando na LBEU(liga Brasileira de Esports Universitarios)
