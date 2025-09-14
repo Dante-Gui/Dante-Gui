@@ -4,10 +4,8 @@ Este repositório reúne meus projetos acadêmicos desenvolvidos ao longo da gra
 
 ## 📂 Estrutura
 
-- `projetos-academicos/` – Trabalhos e atividades organizados por disciplina:
-  - `logica-da-programacao/`
-  - `banco-de-dados/`
-  - `bootcamp/`
+- `projetos/` – Trabalhos e atividades organizados por disciplina:
+ 
 
 # 👨‍🎓 Sobre mim
 - 💀 Nome: Guilherme Sales Rodrigues 
