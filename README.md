@@ -2,11 +2,6 @@
 
 Este repositório reúne meus projetos acadêmicos desenvolvidos ao longo da graduação em Ciência da Computação no CEUB.
 
-## 📂 Estrutura
-
-- `projetos/` – Trabalhos e atividades organizados por disciplina:
- 
-
 # 👨‍🎓 Sobre mim
 - 💀 Nome: Guilherme Sales Rodrigues 
 - 👾 Curso: Analise e Desenvolvimento de Sistemas – CEUB
