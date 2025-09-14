@@ -1,7 +1,7 @@
 ## Olá, Meu chamo Guilherme Sales 
-- 🌱 Estudando banco de dados (SQL) e Linguagem C
-- 😄 Pronouns: ele/dele
+- 🌱 Estudante do Ceub
 - 🤖 Faço parte do time de valorant do Ceub: (Black Cyber) jogando na LBEU(liga Brasileira de Esports Universitarios)
+- 👾 Atualemente Cursando Analise e Desenvolvimento de Sistemas 
 
 <div> 
   <a href="https://instagram.com/gsr.sales" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
