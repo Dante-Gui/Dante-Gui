@@ -1,0 +1,54 @@
+#include <stdlib.h>
+#include <stdio.h>
+
+float n1, n2, result;
+char operador;
+
+int main(){
+
+    printf("Digite o primeio numero");
+    scanf("%f", &n1);
+    
+    printf("Digite o segundo numero:");
+    scanf("%F", &n2);
+
+    printf("Qual operação : (+, -, *, /)");
+    scanf(" %c", &operador);
+
+    switch (operador )
+    {
+    case '+':
+        result = n1 + n2;
+        printf("Valor da operação: %f", result);
+        break;
+    
+    case '-':
+        result = n1 - n2;
+        printf("Valor da operação: %f", result);
+        break;
+    
+     case '*':
+        result = n1 * n2;
+        printf("Valor da operação: %f", result);
+        break;
+
+
+     case '/':
+        if(n2 =! 0)
+        result = n1 / n2;
+        else{
+            printf("Erro de divisão por zero!\n");
+        return 1;
+        }
+        printf("Valor da operação: %f", result);
+    
+       break;
+
+       default:
+        printf("Operação invalida!\n");
+        break;
+    }
+
+
+    return 0;
+}
