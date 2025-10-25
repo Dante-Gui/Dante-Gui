@@ -1,4 +1,4 @@
-## Olá, Meu chamo Guilherme Sales 
+## Olá, Me chamo Guilherme Sales 
 
 Este repositório reúne meus projetos acadêmicos desenvolvidos ao longo da graduação em Ciência da Computação no CEUB.
 
